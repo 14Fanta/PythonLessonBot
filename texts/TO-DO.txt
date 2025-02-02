@@ -1,0 +1,2 @@
+<b>An application for making a to-do list.</b>
+We need to create an application that allows the user to add, view, and delete tasks.

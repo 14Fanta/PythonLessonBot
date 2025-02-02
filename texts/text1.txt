@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ввод данных.
+До этого момента мы только выводили заранее известную нам информацию. Давайте научимся запрашивать у пользователя строчки при помощи функции input().
+
+name = input()
+print('Привет', name)
+
+В данном примере мы видим что значением переменной name является результат функции input(). 
+
+Функция input() ждёт ввода строчки в терминал. Если запустить программу, может показаться что ничего не происходит. Однако функция ждёт пока пользователь введёт данные. Введём туда имя John и получим результат Привет John.
+
+В качестве аргументов в эту функцию можно передавать пояснительные сообщения:
+
+name = input('Введите Ваше имя: ')
+print(name)
+
+Выводом будет введённая в терминал строчка.
+
+Однако всё равно важно понимать, что консольными программами мало кто пользуется. Но эта функция пригодится вам в процессе обучения.
+
+ 
+
+Типы данных.
+Вполне возможно такое, что Вам нужно создать динамическую программу для математических вычислений:
+
+x = input()
+y = input()
+print(x + y)
+
+Data entry.
+Up to this point, we have only been displaying information that we know in advance. Let's learn how to request lines from a user using the input() function.
+
+name = input()
+print('Hello', name)
+
+In this example, we see that the value of the name variable is the result of the input() function. 
+
+The input() function is waiting for a line to be entered into the terminal. If you run the program, it may seem that nothing is happening. However, the function waits for the user to enter the data. Enter the name John there and get the result Hello John.
+
+Explanatory messages can be passed to this function as arguments.:
+
+name = input('Enter your name: ')
+print(name)
+
+The output will be the line entered into the terminal.
+
+However, it is still important to understand that few people use console programs. But this feature will be useful to you in the learning process.
+
+ 
+
+Types of data.
+It is quite possible that you need to create a dynamic program for mathematical calculations.:
+
+x = input()
+y = input()
+print(x + y)
+
+This program is written without syntax errors, but it has a logical one! If we enter variable numbers into the data, then when we add them up, we get two numbers together! This is called concatenation. So, for example, if you enter 5 and 10, you get 510.
+
+In order to solve this, you need to use the functions mentioned in the last lesson. Namely, the int() function:
+
+x = int(input())
+y = int(input())
+
+print(x + y)
+
+Now the values entered into the variable have been successfully converted to integers, and they can add up. By entering 5 and 10, we get 15.
+
+Don't forget about functions like str(), int(), and float().

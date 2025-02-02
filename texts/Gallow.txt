@@ -1,0 +1,2 @@
+<b>The Gallows game.</b>
+It is necessary to ask the user to guess the word by letters until he guesses it correctly or until the attempts run out.

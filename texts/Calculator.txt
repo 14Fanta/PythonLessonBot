@@ -1,0 +1,2 @@
+<b>Calculator.</b>
+Using Python, you can create a basic calculator application with functions of addition, subtraction, multiplication and division.

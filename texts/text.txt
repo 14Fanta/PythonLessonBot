@@ -1,0 +1,80 @@
+In programming, variables are used to store the data that you will be working with. Imagine a variable as a box where you can put a number, text, or something else, and then use it in a program.
+
+A variable is like a shortcut for a certain value. With it, you can save and use data when needed.
+For example, let's create some variables:
+
+x = 5
+y = 10
+
+name = 'John'
+height = 183.45
+
+Here we have created 4 variables:
+
+x and y are numbers: 5 and 10.
+name is the text (or string) "John".
+height is a decimal number: 183.45.
+Each variable has its own name and value. It is important to choose the right variable names so that the code is understandable to you and others.
+
+Variable names
+When you create a variable, its name must follow certain rules:
+
+The name of a variable cannot begin with a number. For example, 1name or 2value will cause an error, but name1 or value2 is fine.
+Variables are usually named with a small letter, and if you need to use several words, they are separated by underscores: my_name, your_age.
+Types of data in variables
+Variables can store different types of data. There are several basic data types in Python:
+
+Integer (int): 5, 23, 1337
+Float number: 1.68, 183.45
+String: "John", "Hello", "Python is awesome"
+Boolean value: True, False (used to express logic: yes or no)
+Besides these, Python has other data types such as lists, dictionaries, sets, and others.
+
+Output of variable values
+To see what is happening in your program, you can display the values of variables on the screen using the print() function. This function allows you to show the result of the program directly in the terminal.
+
+For example:
+
+print('Hello, world!')
+
+Here, the print() function outputs the text "Hello, world!" to the screen. You can also output the values of variables.:
+
+name = 'John'
+age = 25
+
+print('My name is', name)
+print('Me', age, 'years')
+
+The result will be as follows:
+
+My name is John.
+I'm 25 years old.
+
+You can add numbers and strings directly to print():
+
+x = 14
+y = 7
+
+print('Amount:', x + y)
+
+The result will be:
+
+The amount: 21
+
+But be careful if you add up the lines.:
+
+x = '14'
+y = '7'
+
+print(x + y)
+
+The result will be 147, because Python will just connect two strings together.
+
+Comments in the code
+Comments help you understand the code and serve as a reminder for you or other developers about what a certain part of the program does. In Python, comments begin with the # character for single-line comments or triple quotes """ for multi-line ones.
+
+# This is a one-line comment
+
+""" This is a multi-line comment """
+
+Comments are ignored by Python and have no effect on program execution. They are useful when you need to temporarily disable a part of the code or explain what is happening in the program.

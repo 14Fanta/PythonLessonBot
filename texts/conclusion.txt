@@ -1,0 +1,8 @@
+<b>Congratulations! You have taken the first step towards mastery!</b>
+Completing the PythonTutorBot course is not just an achievement, but a real leap to the top of programming! We are proud of you and that you have passed this important stage.
+
+Now that you've mastered the basics of Python, there are many possibilities open to you. Where to go next? We strongly recommend that you study one of the most powerful and popular programming paradigms, object—oriented programming (OOP). This course will open up new horizons for you and help you understand how to create complex, effective applications.
+
+But theory without practice will not give the desired result. Our Python Taskbook course will help you strengthen your knowledge and hone your skills. By solving various tasks, you will learn how to apply the acquired knowledge in real situations.
+
+If you have already mastered OOP and are ready to create something of your own, then it's time to start writing bots! We offer courses on bot development.

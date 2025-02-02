@@ -1,0 +1,4 @@
+You can do anything you want with the source, as long as you leave the copyrights in and display those copyrights in any documentation about Python that you produce. If you honor the copyright rules, it’s OK to use Python for commercial use, to sell copies of Python in source or binary form (modified or unmodified), or to sell products that incorporate Python in some form. We would still like to know about all commercial use of Python, of course.
+See the license page to find further explanations and the full text of the PSF License.
+
+The Python logo is trademarked, and in certain cases permission is required to use it. Consult the Trademark Usage Policy for more information.
